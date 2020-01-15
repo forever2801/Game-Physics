@@ -1,0 +1,1 @@
+set path=C:\SFML\bin;C:\MinGW\bin%path%
