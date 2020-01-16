@@ -1,0 +1,3 @@
+set path=C:\SFML\bin;C:\mingw32\bin;%path%
+compile Level.cpp Level.h Player.cpp Player.h World.cpp World.h main.cpp main.h -o a
+a
